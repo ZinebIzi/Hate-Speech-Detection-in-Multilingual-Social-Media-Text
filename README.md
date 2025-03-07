@@ -31,6 +31,8 @@ The trained model is deployed as a Streamlit web application, allowing users to 
     git clone https://github.com/your-repo/Hate-Speech-Detection-in-Multilingual-Social-Media-Text
    
     cd Hate-Speech-Detection-in-Multilingual-Social-Media-Text
+   
+   (rerun the notbooks to get the models, there are too huge to be uploaded in github)
 
 -  Run the Streamlit App
   
@@ -39,7 +41,11 @@ The trained model is deployed as a Streamlit web application, allowing users to 
   
 # Future Improvements
 Expand support to more languages.
+
+
 Address data imbalance to improve performance on underrepresented languages.
+
+
 Optimize deployment for real-world applications
 
 
